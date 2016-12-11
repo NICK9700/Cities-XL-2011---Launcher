@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Cities XL 2011 - Launcher", "Cities XL 2011 - Launcher\Cities XL 2011 - Launcher.vbproj", "{2A263317-3DD5-463D-ACD9-0057B021A80E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Cities XL 2011 Update Manager", "Cities XL 2011 Update Manager\Cities XL 2011 Update Manager.vbproj", "{5FA990DF-84E3-4802-AE7C-19C5590B107E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Cities XL 2011 Mod Manager", "Cities XL 2011 Mod Manager\Cities XL 2011 Mod Manager.vbproj", "{1A25DD1B-40CA-4B38-A07B-AF9F6193F702}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A263317-3DD5-463D-ACD9-0057B021A80E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A263317-3DD5-463D-ACD9-0057B021A80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A263317-3DD5-463D-ACD9-0057B021A80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A263317-3DD5-463D-ACD9-0057B021A80E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FA990DF-84E3-4802-AE7C-19C5590B107E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FA990DF-84E3-4802-AE7C-19C5590B107E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FA990DF-84E3-4802-AE7C-19C5590B107E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FA990DF-84E3-4802-AE7C-19C5590B107E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A25DD1B-40CA-4B38-A07B-AF9F6193F702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A25DD1B-40CA-4B38-A07B-AF9F6193F702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A25DD1B-40CA-4B38-A07B-AF9F6193F702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A25DD1B-40CA-4B38-A07B-AF9F6193F702}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
